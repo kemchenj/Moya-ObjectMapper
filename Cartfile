@@ -1,0 +1,4 @@
+gihutb "Moya/Moya" ~> 10.0
+github "Hearst-DD/ObjectMapper" ~> 3.0
+github "ReactiveX/RxSwift"
+github "ReactiveCocoa/ReactiveSwift"
